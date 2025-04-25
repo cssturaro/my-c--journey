@@ -4,7 +4,7 @@ namespace HypotenuseCalculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Wellcome to hypotenuse calculator\n");
+            Console.WriteLine("Welcome to hypotenuse calculator\n");
 
             Console.WriteLine("Type the A side: ");
             double a = Convert.ToDouble(Console.ReadLine());
