@@ -1,3 +1,5 @@
+using System;
+
 namespace HypotenuseCalculator
 {
     class Program
